@@ -1,0 +1,4 @@
+fastai
+datasets
+duckduckgo_search
+fastdownload
